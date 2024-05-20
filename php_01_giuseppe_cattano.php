@@ -9,7 +9,5 @@ const FLOAT = 1.11;
 const STRING = "ciao";
 const BOOLEAN = true;
 
-var_dump($integer);
-var_dump($float);
-var_dump($string);
-var_dump($booleanger);
+var_dump($integer, $float, $string, $boolean);
+var_dump(INTEGER, FLOAT, STRING, BOOLEAN);
