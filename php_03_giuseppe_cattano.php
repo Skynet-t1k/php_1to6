@@ -56,4 +56,4 @@ $results = $words1[6][3][1][1] . ' ' . $words1[6][3][0] . ' ' . $words1[8] . ' '
     $words1[6][3][1][2][2][1] . ' ' . $words1[6][3][1][2][0] . ' ' . $words1[6][0] . $words1[9] . ' ' . $words2['elemento3'][2] . ' ' .
     $words1[6][3][1][2][1] . ' ' . $words1[7] . ' ' . $words1[6][3][1][2][2][0] . ' ' . $words1[6][1] . ' ' . $words2['elemento3'][1];
 
-echo ($results);
+echo $results;

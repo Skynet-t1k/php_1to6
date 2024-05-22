@@ -18,5 +18,5 @@ $text8 = "tutto.";
 // correggi eventuali errori e stampa correttamente a terminale la stringa: “Marco Hai sete? Perche' hai bevuto tutto.“
 // per evitare di concatenare molti spazi vuoti ho aggiunto uno spazio vuoto nel contenuto delle variabili
 
-echo ($text1 . $text2 . $text3 . $text4 . $text5 . $text6 . $text7 . $text8);
+echo $text1 . $text2 . $text3 . $text4 . $text5 . $text6 . $text7 . $text8;
 // quando salvo l'intellisense mi rimuove '? >' automaticamente.boh
